@@ -31,3 +31,11 @@ This workflow executes entirely on your local machine using an OpenAI-compatible
 5. Note the exact model string identifier displayed in your server logs (e.g., `qwen3.5-9b`).
 
 ---
+
+## Install Dependencies
+
+Install the primary DSPy framework within your active environment:
+
+`pip install dspy-ai`
+
+---
